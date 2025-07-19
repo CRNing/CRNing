@@ -1,13 +1,14 @@
-# 👋 Hi, I’m RuiNing Cao!
+# 👋 Hi, I’m RuiNing Cao
 
-🎓 I’m currently an undergraduate student majoring in Information and Communication Engineering
+🎓 Undergraduate student majoring in **Information and Communication Engineering**
 
+---
 
-## 📫 How to reach me
+## 📫 Contact
 
-- 📧 Email: `crning.bupt.edu.cn`  
+📧 Email: `crning@bupt.edu.cn`
 
+---
 
-> “Stay curious. Build boldly. Learn deeply.”  
-
+> “Stay curious. Build boldly. Learn deeply.”
 

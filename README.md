@@ -1,10 +1,13 @@
-Hi there 👋
+# 👋 Hi, I’m RuiNing Cao!
+
+🎓 I’m currently an undergraduate student majoring in Information and Communication Engineering
 
 
-**CRNing/CRNing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 How to reach me
 
-Here are some ideas to get you started:
+- 📧 Email: `crning.bupt.edu.cn`  
 
-- 🔭 I’m currently learning in Beijing University of Posts and Telecommunications
+
+> “Stay curious. Build boldly. Learn deeply.”  
 
 

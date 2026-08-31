@@ -1,12 +1,12 @@
 # 👋 Hi, I’m RuiNing Cao
 
-🎓 Undergraduate student majoring in **Information and Communication Engineering**
+🎓 M.Comp. @ **NUS** | B.Eng. in **Communication Engineering** @ **BUPT**
 
 ---
 
 ## 📫 Contact
 
-📧 Email: `crning@bupt.edu.cn`
+📧 Email: `icrning@gmail.com`
 
 ---
 

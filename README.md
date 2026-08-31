@@ -1,6 +1,6 @@
-# 👋 Hi, I’m RuiNing Cao
+# 👋 Hi, I’m RUINING CAO
 
-🎓 M.Comp. @ **NUS** | B.Eng. in **Communication Engineering** @ **BUPT**
+🎓 Master of Computing student at **National University of Singapore (NUS)**
 
 ---
 

@@ -1,6 +1,6 @@
 # 👋 Hi, I’m RUINING CAO
 
-🎓 Master of Computing student at **National University of Singapore (NUS)**
+🎓 Master of Computing student at **NUS**
 
 ---
 
